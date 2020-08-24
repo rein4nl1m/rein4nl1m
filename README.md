@@ -3,7 +3,7 @@
 :star2: Cobol Developer on [HBSIS - AmBev](https://hbsis.com.br/)<br>
 :rocket: Dart/Flutter Developer<br>
 
-### Find me elsewhere :earth-americas: <br>
+### Find me elsewhere :house_with_garden: <br>
 :bird: [Twitter](https://twitter.com/reinan_lim)<br>
 :briefcase: [Linkedin](https://www.linkedin.com/in/reinanlim4/)<br>
 :camera: [Instagram](https://www.instagram.com/reinan.lim/)<br>

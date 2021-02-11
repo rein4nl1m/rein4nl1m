@@ -1,7 +1,6 @@
 ### Hi there, I'm Reinan Lima 👋<br>
 
-:star2: Cobol Developer on [AMBEV TECH](https://ambevtech.com.br/)<br>
-:rocket: Dart/Flutter Developer<br>
+:star2: Dart/Flutter Developer on [Rovitex](https://loja.rovitex.com.br/institucional/quem-somos)<br>
 
 ### Find me elsewhere :house_with_garden: <br>
 :bird: [Twitter](https://twitter.com/reinan_lim)<br>

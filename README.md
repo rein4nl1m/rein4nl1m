@@ -1,6 +1,6 @@
 ### Hi there, I'm Reinan Lima 👋<br>
 
-:star2: Dart/Flutter Developer on [Rovitex](https://loja.rovitex.com.br/institucional/quem-somos)<br>
+:star2: Dart/Flutter Developer on [SpinTec](https://spintec.com.br/)<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rein4nl1m&show_icons=true)
 
